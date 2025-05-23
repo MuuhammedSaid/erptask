@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75816416281",
+    "project_id": "documentmanager-8bc79",
+    "storage_bucket": "documentmanager-8bc79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75816416281:android:30ee2906c30f640c64a688",
+        "android_client_info": {
+          "package_name": "com.example.documentmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5p5NP9dEBxlWUZP3X1sRGQfNdcoryLac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
